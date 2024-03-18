@@ -9,7 +9,7 @@ h1{
     text-transform: capitalize;
    
     color: rgb(89, 8, 165);
-    text-decoration: 2px green underline;
+    text-decoration: 2px white underline;
     font-family: 'Times New Roman', Times, serif;
     display: flex;
     justify-content: center;
@@ -23,7 +23,7 @@ h1{
 .div2{
     padding: 5px;
     margin-top: 20px;
-    background-color: rgb(215, 92, 73);
+    background-color: white;
     height: 50vh;
     border-radius: 15px;
     text-align: center;
@@ -43,7 +43,7 @@ h1{
 .div4{
     padding: 5px;
     margin-top: 20px;
-    background-color: rgb(135, 200, 129);
+    background-color:white;
     height: 50vh;
     border-radius: 15px;
     text-align: center;
